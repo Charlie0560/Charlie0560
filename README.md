@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I am a Full Stack Web Developer
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on full stack projects
 - 💬 Ask me about MERN Stack Development
@@ -20,5 +20,9 @@
 
 <a href="https://github.com/Charlie0560/PICITY">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie0560&repo=PICITY&theme=light" />
+</a>
+
+<a href="https://github.com/Charlie0560/PICT_Canteen">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie0560&repo=PICT_Canteen&theme=light" />
 </a>
 
