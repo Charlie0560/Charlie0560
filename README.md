@@ -31,6 +31,6 @@
 </a>
 
 <a href="https://github.com/Charlie0560/Skill-Sortner">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie0560&repo=Skill-Sortner&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie0560&repo=Skill-Sortner&theme=light"/>
 </a>
 
