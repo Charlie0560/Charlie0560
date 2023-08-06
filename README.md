@@ -26,7 +26,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie0560&repo=PICT_Canteen&theme=light" />
 </a>
 <br/> <br/>
-<a href="https://github.com/Charlie0560/Attendance-Taker">
+<a href="https://github.com/Charlie0560/Attendance_Taker">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie0560&repo=Attendance-Taker&theme=light" />
 </a>
 
