@@ -17,6 +17,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Charlie0560&show_icons=true&theme=light&line_height=27" alt="Charlie's github stats"/>
 </a>
 <hr/>
+<a href="https://github.com/Charlie0560/Digital_Academic_Passport">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie0560&repo=Digital_Academic_Passport&theme=light"/>
+</a>
 
 <a href="https://github.com/Charlie0560/PICITY">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie0560&repo=PICITY&theme=light" />
@@ -27,7 +30,7 @@
 </a>
 <br/> <br/>
 <a href="https://github.com/Charlie0560/Attendance_Taker">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie0560&repo=Attendance-Taker&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Charlie0560&repo=Attendance_Taker&theme=light" />
 </a>
 
 <a href="https://github.com/Charlie0560/Skill-Sortner">
